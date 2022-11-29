@@ -1,0 +1,112 @@
+.body {
+    background-image: url(background.jpg);
+    background-size: cover;
+    background-color: rgb(173, 255, 178);
+}
+
+.container {
+    max-width: 1000px;
+    margin: auto;
+}
+
+.banner {
+    border-radius: 20px;
+    padding-bottom: 30px;
+}
+
+.header {
+    background-color: #a1d3c8b9;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 10px;
+    border: 10px;
+}
+
+@media (max-width: 1000px) {
+    td {
+        display: block;
+        text-align: center;
+    }
+}
+
+.gif-img {
+    margin: 10px;
+}
+
+.social {
+ background-color: #a1d3c8b9;
+ border-radius: 20px;
+ margin: 10px;
+ padding: 10px;
+ border: 10px;
+}
+
+.roadmap-class {
+ background-color: #a1d3c8b9;
+ border-radius: 20px;
+ margin: 10px;
+ padding: 10px;
+ border: 10px;
+ font-size: 18px;
+}
+
+.roadmap-class ul {
+    margin-left: 25px;
+   }
+
+h3 {
+    text-align: center;
+   }
+
+.team {
+    background-color: #a1d3c8b9;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 10px;
+    border: 10px;
+    font-size: 18px;
+   }
+
+.oneman {
+margin-left: 25px;
+text-align: center;
+}
+
+.oneman p {
+    font-style: italic;
+    text-align: center;
+}
+
+.table-info {
+    margin: 10px;
+    text-align: center;
+}
+
+.table-info h1 {
+    margin: 25px;
+    text-align: center;
+}
+
+.social-info {
+    font-size: 18px;
+    padding: 5%;
+    text-align: center;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.social li {
+    margin-left: 25px;
+}
+
+.copyrights {
+    color: rgba(213, 253, 216);
+    text-align: center;
+}
