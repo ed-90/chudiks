@@ -2,6 +2,8 @@
     background-image: url(background.jpg);
     background-size: cover;
     background-color: rgb(173, 255, 178);
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .container {
